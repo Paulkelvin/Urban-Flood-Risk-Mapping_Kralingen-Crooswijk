@@ -11,7 +11,7 @@
     * [Methodology](#methodology)
 * [Key Outputs](#key-outputs)
 * [Results](#results)
-    * [Affected Assets](#affected-assets)
+    * [Map Imagery Of Affected Assets](#Map-Imagery-Of-Affected-Assets)
     * [Land Use Summary](#land-use-summary)
         * [Land Use Summary of the Study Area](#land-use-summary-of-the-study-area)
         * [Land Use Summary of Flood Extent](#land-use-summary-of-flood-extent)
@@ -88,7 +88,7 @@ Flood Risk Index = (0.30 * Flow Accumulation) + (0.15 * Slope)
 
 ## 📊 Results
 
-### Affected Assets
+### Map Imagery Of Affected Assets
 ![Map of Flood Extent in Kralingen-Crooswijk_11zon](https://github.com/user-attachments/assets/a4ab0c5c-4df0-4b13-b9fe-7ebb6386bd24)
 ![Distribution of Land Use Types Affected By Flood In Kralingen-Crooswijk_11zon](https://github.com/user-attachments/assets/7f4900a8-d01e-4ce2-980c-02f986ad8cf6)
 ![Map Of Road Network In Kralingen-Crooswijk (safe roads)_11zon](https://github.com/user-attachments/assets/87eef787-4164-46b3-9e0b-448ced4a43f1)
