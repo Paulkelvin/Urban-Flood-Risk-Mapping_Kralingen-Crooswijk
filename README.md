@@ -22,7 +22,7 @@
 
 ---
 
-## 📌 Project Overview  
+## Project Overview  
 This project identifies **critical flood-prone zones** in Kralingen-Crooswijk, Rotterdam, using a weighted overlay model. The analysis integrates:  
 - **Land Elevation** (25% weight)  
 - **Flow Accumulation** (30% weight)  
@@ -61,7 +61,7 @@ Flood Risk Index = (0.30 * Flow Accumulation) + (0.15 * Slope)
 
 * Cross-referenced with historical flood data from Dutch Water Authorities.
 
-## 🗺️ Key Outputs
+## Key Outputs
 
 1.  **Flood Risk Zonation**
 2.      * Flood extent
