@@ -122,9 +122,13 @@ Flood Risk Index = (0.30 * Flow Accumulation) + (0.15 * Slope)
 | **Total**    | 1,240,307.20     | 100.0%                 |
 
 
-**Key Observations:**
+### Key Observations 
 
 * **Residential areas are disproportionately affected by flooding.** While residential land use accounts for 81.2% of the total study area, it comprises 80.6% of the area directly impacted by the flood. This highlights the vulnerability of residential zones to flood events.
 * **Commercial and Industrial areas are also impacted, but to a lesser extent than their overall coverage.** This suggests that these areas might be located in less flood-prone zones within the study area.
 * **Farmland and allotments have a relatively minor proportion within both the total area and the flooded extent.** This indicates that these land uses are relatively less vulnerable to flooding in this particular context.
 * **The overall land use distribution in the study area is dominated by residential areas, followed by industrial and commercial zones.** This context is important for understanding the potential impact of flooding on different sectors and communities.
+
+### References
+### Contributing
+### License
