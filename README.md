@@ -90,6 +90,7 @@ Flood Risk Index = (0.30 * Flow Accumulation) + (0.15 * Slope)
 
 ### Map Imagery Of Affected Assets
 ## Distribution of Critical Infrastructure Affected By Flood in Kralingen-Crooswijk
+### Map images can be found in Asset folder
 ![Distribution of Critical Infrastructure Affected By Flood in Kralingen-Crooswijk](https://raw.githubusercontent.com/Paulkelvin/Urban-Flood-Risk-Mapping_Kralingen-Crooswijk/master/Asset/Distribution%20of%20Critical%20Infrastructure%20Affected%20By%20Flood%20in%20Kralingen-Crooswijk_11zon.png)
 
 ## Distribution of Critical Infrastructure in Kralingen-Crooswijk
