@@ -98,14 +98,7 @@ Flood Risk Index = (0.30 * Flow Accumulation) + (0.15 * Slope)
 ![Distribution of Critical Infrastructure Affected By Flood in Kralingen-Crooswijk_11zon](https://github.com/user-attachments/assets/ae52cf1b-761f-4b32-8b3a-51554f902007)
 ![Distribution of Critical Infrastructure in Kralingen-Crooswijk_11zon](https://github.com/user-attachments/assets/4646c431-60dd-4dfc-90f6-3a5210d49eaa)
 
-
-| Asset Type | Count | Key Observations                                       |
-|------------|------|----------------------------------------------------------|
-| Residential Roads | 36   | Low-lying areas with poor drainage (e.g., Watertorenweg). |
-| Motorways       | 2    | Critical transport corridors (A20) at risk.            |
-| Buildings       | 125  | Includes schools and vulnerable houseboats.           |
-
-
+# Land Use Summary
 ## Land Use Summary of the Study Area
 
 | Land Use   | Area (sq. meters) | Percentage of Total Area |
