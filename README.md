@@ -3,10 +3,10 @@
 *A GIS-based flood vulnerability analysis for urban resilience planning.*  
 **Project Link:** [Urban Flood Risk Mapping Of Kralingen-Crooswijk](https://paulkelvin.github.io/Urban-Flood-Risk-Mapping_Kralingen-Crooswijk/)
 
-## Table of Contents  [:toc]
+## Table of Contents
 
 * [Project Overview](#project-overview)
-* [Data & Methodology](#data-methodology)
+* [Data & Methodology](#data--methodology)
     * [Data Sources](#data-sources)
     * [Methodology](#methodology)
 * [Key Outputs](#key-outputs)
@@ -18,7 +18,7 @@
     * [Key Observations](#key-observations)
 * [References](#references) 
 * [Contributing](#contributing)
-* [License](#license) 
+* [License](#license)
 
 ---
 
@@ -67,7 +67,7 @@ Flood Risk Index = (0.30 * Flow Accumulation) + (0.15 * Slope)
 2.      * Flood extent
 
 3.  **Asset Exposure**
-      ### Affected Assets
+       ### Exposed Assets
       
       * **Residential:**
           * Houses: 69
@@ -81,7 +81,6 @@ Flood Risk Index = (0.30 * Flow Accumulation) + (0.15 * Slope)
       * **Water Tower:** 1
 
 **Key Observations:**
-
 * Residential buildings are the most affected category, with houses and apartments accounting for a significant portion of the total.
 * The presence of houseboats among the affected buildings highlights the vulnerability of this specific type of residential structure in flood-prone areas.
 * Commercial and industrial buildings are also affected, indicating potential economic impacts of flooding.
