@@ -89,17 +89,29 @@ Flood Risk Index = (0.30 * Flow Accumulation) + (0.15 * Slope)
 ## 📊 Results
 
 ### Map Imagery Of Affected Assets
-### Affected Assets
-![Map of Flood Extent](Asset/Map-of-Flood-Extent-in-Kralingen-Crooswijk_11zon.png)
-![Land Use Distribution](Asset/Distribution-of-Land-Use-Types-Affected-By-Flood_11zon.png)
+## Distribution of Critical Infrastructure Affected By Flood in Kralingen-Crooswijk
+![Distribution of Critical Infrastructure Affected By Flood in Kralingen-Crooswijk](https://github.com/Paulkelvin/Urban-Flood-Risk-Mapping_Kralingen-Crooswijk/blob/master/Asset/Distribution%20of%20Critical%20Infrastructure%20Affected%20By%20Flood%20in%20Kralingen-Crooswijk_11zon.png)
 
-### Roads Analysis
-![Safe Roads](Asset/Map-Of-Road-Network-In-Kralingen-Crooswijk-safe-roads_11zon.png)
-![Affected Roads](Asset/Roads-Affected-by-Flood-in-Kalingen-Crooswijk_11zon.png)
+## Distribution of Critical Infrastructure in Kralingen-Crooswijk
+![Distribution of Critical Infrastructure in Kralingen-Crooswijk](https://github.com/Paulkelvin/Urban-Flood-Risk-Mapping_Kralingen-Crooswijk/blob/master/Asset/Distribution%20of%20Critical%20Infrastructure%20in%20Kralingen-Crooswijk_11zon.png)
 
-### Critical Infrastructure
-![Critical Infrastructure Flood](Asset/Distribution-of-Critical-Infrastructure-Affected-By-Flood_11zon.png)
-![Critical Infrastructure](Asset/Distribution-of-Critical-Infrastructure-in-Kralingen-Crooswijk_11zon.png)
+## Distribution of Land Use Types Affected By Flood In Kralingen-Crooswijk
+![Distribution of Land Use Types Affected By Flood In Kralingen-Crooswijk](https://github.com/Paulkelvin/Urban-Flood-Risk-Mapping_Kralingen-Crooswijk/blob/master/Asset/Distribution%20of%20Land%20Use%20Types%20Affected%20By%20Flood%20In%20Kralingen-Crooswijk_11zon.png)
+
+## Map Of Road Network In Kralingen-Crooswijk (safe roads)
+![Map Of Road Network In Kralingen-Crooswijk (safe roads)](https://github.com/Paulkelvin/Urban-Flood-Risk-Mapping_Kralingen-Crooswijk/blob/master/Asset/Map%20Of%20Road%20Network%20In%20Kralingen-Crooswijk%20(safe%20roads)_11zon.png)
+
+## Map Of Road Network In Kralingen-Crooswijk
+![Map Of Road Network In Kralingen-Crooswijk](https://github.com/Paulkelvin/Urban-Flood-Risk-Mapping_Kralingen-Crooswijk/blob/master/Asset/Map%20Of%20Road%20Network%20In%20Kralingen-Crooswijk_11zon.png)
+
+## Map of Flood Extent in Kralingen-Crooswijk
+![Map of Flood Extent in Kralingen-Crooswijk](https://github.com/Paulkelvin/Urban-Flood-Risk-Mapping_Kralingen-Crooswijk/blob/master/Asset/Map%20of%20Flood%20Extent%20in%20Kralingen-Crooswijk_11zon.png)
+
+## Roads Affected by Flood in Kalingen-Crooswijk
+![Roads Affected by Flood in Kalingen-Crooswijk](https://github.com/Paulkelvin/Urban-Flood-Risk-Mapping_Kralingen-Crooswijk/blob/master/Asset/Roads%20Affected%20by%20Flood%20in%20Kalingen-Crooswijk_11zon.png)
+
+## Spatial Distribution of Flood-Affected Assets in Kralingen-Crooswijk
+![Spatial Distribution of Flood-Affected Assets in Kralingen-Crooswijk](https://github.com/Paulkelvin/Urban-Flood-Risk-Mapping_Kralingen-Crooswijk/blob/master/Asset/Spatial%20Distribution%20of%20Flood-Affected%20Assets%20in%20Kralingen-Crooswijk_11zon.png)
 
 # Land Use Summary
 ## Land Use Summary of the Study Area
